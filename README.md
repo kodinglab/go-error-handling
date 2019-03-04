@@ -1,7 +1,7 @@
 # go-error-handling
 Go error handling and custom logger with gin-gionic
 
-Midleware for error handling and logger which display Controller, Method or Function name and also show line number where the Error was raised.
+Middleware for error handling and logger which display Controller, Method or Function name and also show line number where the Error was raised.
 
 Best fit for RESTful API 
 
