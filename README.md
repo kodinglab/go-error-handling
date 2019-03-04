@@ -50,6 +50,13 @@ Log format
 ```bash
 [ErrorType] Timestamp | Controller - Method[path/to/file:LineNumber]
 ```
+Display output
+```json
+{
+    "message": "This is error route",
+    "status": false
+}
+```
 
 ## Authors
 **Alfa** - *Initial work* - [kodinglab](https://github.com/kodinglab)
